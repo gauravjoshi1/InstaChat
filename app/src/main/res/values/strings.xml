@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstaChat</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">bTgaRORycTDEqjZUnRWSDDvBLh4H04qpF8AeciSh</string>
+    <string name="back4app_client_key">YWMBTVu1D5Lc2PAxZDiItcsRIDIn4K2AhgrXbeWR</string>
+</resources>
