@@ -12,8 +12,10 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="15dp"
-        android:contentDescription="Add Image To The Post"
         android:background="@color/white"
+        android:contentDescription="Add Image To The Post"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/description"
         app:srcCompat="@android:drawable/ic_menu_camera" />

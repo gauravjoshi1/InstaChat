@@ -61,6 +61,7 @@ class MainActivity : AppCompatActivity() {
                 Log.e(TAG, "Error while saving post")
                 exception.printStackTrace()
             } else {
+                Toast.makeText(this, "Congrats, post saved to the server", Toast.LENGTH_SHORT).show()
                 Log.i(TAG, "Successfully saved post")
             }
         }
